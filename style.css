@@ -1,0 +1,32 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+body {
+    background-color: #90FCF9;
+}
+
+main {
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px #023549DD;
+    width: 850px;
+    padding: 10px;
+    margin: auto;
+}
+
+h2 {
+    color: #63596b;
+}
+
+img {
+    text-align: right;
+}
