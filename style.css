@@ -1,5 +1,7 @@
 * {
     font-family: sans-serif;
+    text-align: center;
+    
 }
 
 h1 {
@@ -11,22 +13,27 @@ p {
 }
 
 body {
-    background-color: #90FCF9;
+    background-image: linear-gradient(to right,#83e6e2, #629b99);
 }
 
 main {
     background-color: #ffffff;
-    border-radius: 5px;
-    box-shadow: 5px 5px 15px #023549DD;
-    width: 850px;
-    padding: 10px;
+    border-radius: 7px;
+    box-shadow: 7px 7px 14px #023549DD;
+    width: 990px;
+    padding: 7px;
     margin: auto;
 }
 
 h2 {
-    color: #63596b;
+    color: #63596B;
+    text-align: left;
 }
 
-img {
-    text-align: right;
-}
+/*img {
+    text-align: center;
+
+}*/
+
+
+
