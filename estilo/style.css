@@ -19,7 +19,8 @@ main {
     background-color: #ffffff;
     border-radius: 7px;
     box-shadow: 7px 7px 14px #023549DD;
-    width: 990px;
+    min-width: 320px;
+    max-width: 990px;
     padding: 7px;
     margin: auto;
 }
