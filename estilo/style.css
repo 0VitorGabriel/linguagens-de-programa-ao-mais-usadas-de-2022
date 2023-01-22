@@ -30,4 +30,19 @@ h2 {
     text-align: left;
 }
 
+div.video {
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+    padding-bottom: 56.25%;
+    position: relative;
+}
+
+div.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 10%;
+    width: 80%;
+    height: 80%;
+}
+
 
