@@ -12,7 +12,7 @@ p {
 }
 
 body {
-    background-image: linear-gradient(to right,#83e6e2, #629b99);
+    background-image: linear-gradient(to bottom,#83e6e2, #629b99);
 }
 
 main {
@@ -29,3 +29,5 @@ h2 {
     color: #63596B;
     text-align: left;
 }
+
+
