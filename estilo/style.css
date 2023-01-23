@@ -45,4 +45,6 @@ div.video > iframe {
     height: 80%;
 }
 
-
+li {
+    text-align: left;
+}
