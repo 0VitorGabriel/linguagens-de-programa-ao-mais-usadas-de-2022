@@ -44,3 +44,7 @@ div.video > iframe {
 li {
     text-align: left;
 }
+
+td {
+    text-align: justify;
+}
