@@ -5,6 +5,7 @@
 
 p {
     text-align: justify;
+    font-size: 1.2em;
 }
 
 body {
@@ -45,7 +46,3 @@ li {
     text-align: left;
 }
 
-td {
-    text-align: justify;
-    font-size: 1.3em;
-}
