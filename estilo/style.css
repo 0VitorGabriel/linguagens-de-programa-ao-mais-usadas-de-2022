@@ -6,6 +6,7 @@
 p {
     text-align: justify;
     font-size: 1.2em;
+    font-weight: bold;
 }
 
 body {
@@ -23,8 +24,9 @@ main {
 }
 
 h2 {
-    color: #63596B;
+    color: #312c36;
     text-align: left;
+    text-decoration: underline;
 }
 
 div.video {
