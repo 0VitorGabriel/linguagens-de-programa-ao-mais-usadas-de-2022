@@ -1,13 +1,8 @@
+@charset "UTF-8";
+
 * {
     font-family: sans-serif;
     text-align: center;
-}
-
-p {
-    text-align: justify;
-    font-size: 1.2em;
-    font-weight: bold;
-    text-indent: 30px;
 }
 
 body {
@@ -28,6 +23,13 @@ h2 {
     color: #312c36;
     text-align: left;
     text-decoration: underline;
+}
+
+p {
+    text-align: justify;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-indent: 30px;
 }
 
 div.video {
