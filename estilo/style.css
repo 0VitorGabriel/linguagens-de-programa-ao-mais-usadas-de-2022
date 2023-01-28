@@ -1,11 +1,8 @@
+@charset "UTF-8";
+
 * {
     font-family: sans-serif;
     text-align: center;
-}
-
-p {
-    text-align: justify;
-    font-size: 1.2em;
 }
 
 body {
@@ -23,8 +20,16 @@ main {
 }
 
 h2 {
-    color: #63596B;
+    color: #312c36;
     text-align: left;
+    text-decoration: underline;
+}
+
+p {
+    text-align: justify;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-indent: 30px;
 }
 
 div.video {
@@ -44,5 +49,14 @@ div.video > iframe {
 
 li {
     text-align: left;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
 }
 
