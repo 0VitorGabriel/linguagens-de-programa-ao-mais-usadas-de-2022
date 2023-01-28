@@ -51,3 +51,12 @@ li {
     text-align: left;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
