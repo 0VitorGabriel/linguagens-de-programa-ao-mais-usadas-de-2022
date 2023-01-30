@@ -9,7 +9,7 @@ body {
     background-image: linear-gradient(to bottom,#83e6e2, #629b99);
 }
 
-main {
+main, header, footer {
     background-color: #ffffff;
     border-radius: 7px;
     box-shadow: 7px 7px 14px #023549DD;
