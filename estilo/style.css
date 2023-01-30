@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 * {
-    font-family: sans-serif;
     text-align: center;
+    font-family: sans-serif;
 }
 
 body {
@@ -29,7 +29,7 @@ p {
     text-align: justify;
     font-size: 1.2em;
     font-weight: bold;
-    text-indent: 30px;
+    text-indent: 40px;
 }
 
 div.video {
