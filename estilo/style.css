@@ -21,7 +21,7 @@ main {
 }
 
 header {
-    display: inline-block;
+    display: block;
 
     background-color: #ffffff;
 
@@ -31,7 +31,11 @@ header {
     min-width: 320px;
     max-width: 990px;
  
-    
+    padding-top: 10px;
+    padding-right: 7px;
+    padding-bottom: 30px;
+    padding-left: 7px;
+
     margin: auto;
 }
 
