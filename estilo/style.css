@@ -5,7 +5,9 @@
 }
 
 body {
-    /*background-image: linear-gradient(to bottom,#83e6e2, #629b99);*/
+    /* cor anterior ==
+    background-image: linear-gradient(to bottom,#83e6e2, #629b99);*/
+    
     background-image: linear-gradient(to bottom, #7eb9f2, #6da7d6);
     font-family: sans-serif;
 }
@@ -35,7 +37,7 @@ main {
     min-width: 320px;
     max-width: 990px;
     
-    box-shadow: 5px 5px 7px #00000073;
+    box-shadow: 5px 6px 7px #00000073;
 
     padding: 7px;
     margin: auto;
@@ -51,7 +53,7 @@ footer {
     min-width: 320px;
     max-width: 990px;
 
-    box-shadow: 5px 5px 7px #00000073;
+    box-shadow: 5px 6px 7px #00000073;
 
     padding: 7px;
     margin: auto;
