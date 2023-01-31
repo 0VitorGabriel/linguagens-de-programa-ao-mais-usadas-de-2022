@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #cbeeed;
+    background-color: #e4f8f7;
 
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -32,7 +32,7 @@ header {
 }
 
 main {
-    background-color: #cbeeed;
+    background-color: #e4f8f7;
    
     min-width: 320px;
     max-width: 990px;
@@ -45,7 +45,7 @@ main {
 
 
 footer {
-    background-color: #cbeeed;
+    background-color: #e4f8f7;
 
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
