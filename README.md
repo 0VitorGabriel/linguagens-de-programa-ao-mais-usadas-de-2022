@@ -1,2 +1,2 @@
-# linguagens de programçao mais usadas de 2022
+# linguagens de programaçao mais usadas de 2022
  
