@@ -15,6 +15,28 @@ body {
     font-family: sans-serif;
 }
 
+body h2 {
+    color: #312c36;
+    text-align: left;
+    text-decoration: underline;
+}
+
+body p {
+    text-align: justify;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-indent: 40px;
+}
+
+body a {
+    text-decoration: none;
+}
+
+body a:hover {
+    color: #000000e7;
+    text-decoration: underline;
+}
+
 header {
     background-color: #ffffff;
 
@@ -50,13 +72,10 @@ main {
     margin: auto;
 }
 
-
-
 main img {
     display: block;
     margin: auto;
 }
-
 
 footer {
     background-color: #ffffff;
@@ -71,19 +90,6 @@ footer {
 
     padding: 7px;
     margin: auto;
-}
-
-h2 {
-    color: #312c36;
-    text-align: left;
-    text-decoration: underline;
-}
-
-p {
-    text-align: justify;
-    font-size: 1.2em;
-    font-weight: bold;
-    text-indent: 40px;
 }
 
 div.video {
@@ -101,16 +107,5 @@ div.video > iframe {
     height: 80%;
 }
 
-li {
-    text-align: left;
-}
 
-a {
-    text-decoration: none;
-}
-
-a:hover {
-    color: black;
-    text-decoration: underline;
-}
 
