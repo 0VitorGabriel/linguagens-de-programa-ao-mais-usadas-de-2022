@@ -77,6 +77,11 @@ main img {
     margin: auto;
 }
 
+#botao {
+    display: block;
+    margin: auto;
+}
+
 footer {
     background-color: #ffffff;
 
