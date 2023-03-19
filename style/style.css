@@ -6,11 +6,8 @@
 }
 
 body {
-    background-image: url(../imgs_background/fundo.png);
-    background-repeat: no-repeat;
-    background-position: center bottom;
+    background: url(../imgs_background/fundo.png) no-repeat fixed center bottom;
     background-size: cover;
-    background-attachment: fixed;
 
     font-family: sans-serif;
 }
