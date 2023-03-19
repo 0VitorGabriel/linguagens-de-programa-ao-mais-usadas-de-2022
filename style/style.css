@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url(../imgs/fundo.png);
+    background-image: url(../imgs_background/fundo.png);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover;
@@ -44,7 +44,7 @@ header {
     border-top-right-radius: 10px;
 
     min-width: 320px;
-    max-width: 990px;
+    max-width: 800px;
  
     padding: 10px 7px 30px 7px;
 
@@ -61,7 +61,7 @@ main {
     background-color: #ffffff;
    
     min-width: 320px;
-    max-width: 990px;
+    max-width: 800px;
     
     box-shadow: 5px 6px 7px var(--shadow);
 
@@ -86,7 +86,7 @@ footer {
     border-bottom-right-radius: 10px;
 
     min-width: 320px;
-    max-width: 990px;
+    max-width: 800px;
 
     box-shadow: 5px 6px 7px var(--shadow);
 
