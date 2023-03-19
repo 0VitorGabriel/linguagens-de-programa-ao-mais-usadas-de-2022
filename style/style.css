@@ -1,17 +1,17 @@
 @charset "UTF-8";
 
 :root {
-    --color1: #7eb9f2;
-    --color2: #6da7d6;
     --shadow: #00000073;
     --standart-font: sans-serif;
 }
 
 body {
-    /*cor anterior ==
-    background-image: linear-gradient(to bottom,#83e6e2, #629b99);*/
-    
-    background-image: linear-gradient(to bottom, var(--color1), var(--color2));
+    background-image: url(../imgs/fundo.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    background-attachment: fixed;
+
     font-family: sans-serif;
 }
 
@@ -46,10 +46,7 @@ header {
     min-width: 320px;
     max-width: 990px;
  
-    padding-top: 10px;
-    padding-right: 7px;
-    padding-bottom: 30px;
-    padding-left: 7px;
+    padding: 10px 7px 30px 7px;
 
     box-shadow: 5px 5px 7px var(--shadow);
 
@@ -111,6 +108,3 @@ div.video > iframe {
     width: 80%;
     height: 80%;
 }
-
-
-
